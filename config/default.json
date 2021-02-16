@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "pEdash Mykhailo mern dev",
+  "mongoURL": "mongodb://localhost:27017/?readPreference=primary&appname=MongoDB Compass&ssl=false",
+  "baseUrl": "http://localhost:5000"
+}
